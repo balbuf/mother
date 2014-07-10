@@ -1,9 +1,9 @@
 mother
 ======
 
-Twitter feed themed after the Mother Console from Alien
+Twitter feed themed after the Mother Console from the movie Alien
 
-Created for the opening gala of the International Fantastic Film Festival
+Created for the opening gala of the Ithaca International Fantastic Film Festival
 
 This was displayed on a large video monitor with the browser in fullscreen mode.
 
